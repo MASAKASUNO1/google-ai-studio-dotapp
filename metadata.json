@@ -1,0 +1,5 @@
+{
+  "name": "ドット絵生成アプリ",
+  "description": "AIを使ってあなたの画像をドット絵に変換します。写真をアップロードし、スタイルを記述すれば、Geminiがユニークなドット絵を生成します。",
+  "requestFramePermissions": []
+}
